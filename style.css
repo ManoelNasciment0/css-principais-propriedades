@@ -1,0 +1,23 @@
+ul {
+    font-family: 'Hina Mincho', serif;
+    letter-spacing: 1.3em;
+    font-size: 16px;
+    font-style: oblique;
+    color: blue;
+}
+#first {
+    text-transform: uppercase;
+}
+#second {
+    text-transform: uppercase;
+}
+#third {
+    text-transform: uppercase;
+}
+ol {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1.3em;
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+}

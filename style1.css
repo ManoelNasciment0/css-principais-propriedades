@@ -1,0 +1,14 @@
+body {
+    background-color:silver
+}
+img {
+    width: 400px;
+    height: 250px;
+    padding: auto;
+    border: solid 5px;
+    border-radius: 5%;
+}
+footer {
+    text-align: center;
+   
+}
